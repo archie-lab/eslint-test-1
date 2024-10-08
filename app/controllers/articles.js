@@ -1,10 +1,4 @@
-'use strict';
-
-/**
- * Module dependencies.
- */
-
-  console.log(   
+     console.log(   
   
   "dfdfd"   )   ;
 
