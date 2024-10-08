@@ -4,7 +4,11 @@
  * Module dependencies.
  */
 
-const mongoose = require('mongoose');
+  console.log(   
+  
+  "dfdfd"   )   ;
+
+    const mongoose = require('mongoose');
 const { wrap: async } = require('co');
 const only = require('only');
 const Article = mongoose.model('Article');
